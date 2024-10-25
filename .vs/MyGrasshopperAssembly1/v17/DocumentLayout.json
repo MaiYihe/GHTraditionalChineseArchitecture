@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6yhmassembly\\listutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6yhmassembly\\listutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|e:\\office documents\\grasshopper\\79 gh sdk\\mygrasshopperassembly1\\mygrasshopperassembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\0 timberelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\0 timberelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6yhmassembly\\geometryutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6yhmassembly\\geometryutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|e:\\office documents\\grasshopper\\79 gh sdk\\mygrasshopperassembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\utilityelementtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\utilityelementtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\97 (gh) \u89E3\u6784\\deconstructgeometryinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\97 (gh) \u89E3\u6784\\deconstructgeometryinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\annotationguidecurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\annotationguidecurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\98 (gh)\u5404\u7C7B\u6728\u6784\u6784\u4EF6\\1 gh_rectanglesection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\98 (gh)\u5404\u7C7B\u6728\u6784\u6784\u4EF6\\1 gh_rectanglesection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\annotationguides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\annotationguides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\boudarycurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\boudarycurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\mycomponent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\mycomponent2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\annotationguidesutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\annotationguidesutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u5165\u5143\u6570\u636E\\metadeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\\u8F93\u5165\u5143\u6570\u636E\\metadeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6yhmassembly\\gh\u5DE5\u5177\u96C6\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6yhmassembly\\gh\u5DE5\u5177\u96C6\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\1 circlesectiontimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\1 circlesectiontimber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\referencedatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\999 utilityelement \u8F85\u52A9\u7C7B\\referencedatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\mycomponent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\mycomponent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\4 \u7ED8\u5236\u6302\u843D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\4 \u7ED8\u5236\u6302\u843D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\0 \u5C3A\u5BF8\u5206\u6790.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90232A67-27B8-40BC-B846-73F33DCE9AEC}|MyGrasshopperAssembly1\\MyGrasshopperAssembly1.csproj|solutionrelative:mygrasshopperassembly1\\(gh)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\0 \u5C3A\u5BF8\u5206\u6790.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:964137684:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0 TimberElement.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\0 TimberElement.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\0 TimberElement.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\0 TimberElement.cs*",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\0 TimberElement.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:49:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UtilityElementTools.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\UtilityElementTools.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\UtilityElementTools.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\UtilityElementTools.cs*",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\UtilityElementTools.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:37:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnnotationGuideCurves.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuideCurves.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuideCurves.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuideCurves.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuideCurves.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:48:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyComponent2.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyComponent2.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\MyComponent2.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyComponent2.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\MyComponent2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:56:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoudaryCurves.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\BoudaryCurves.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\BoudaryCurves.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\BoudaryCurves.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\BoudaryCurves.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:59:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeometryUtility.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GeometryUtility.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GeometryUtility.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GeometryUtility.cs*",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GeometryUtility.cs*",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswEsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T03:23:53.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListUtility.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\ListUtility.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\ListUtility.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\ListUtility.cs*",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\ListUtility.cs*",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAQwFkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:56:30.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "View.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\View.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\View.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\View.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:55:31.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnnotationGuides.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuides.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuides.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuides.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuides.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:13:06.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "1 GH_RectangleSection.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\98 (GH)\u5404\u7C7B\u6728\u6784\u6784\u4EF6\\1 GH_RectangleSection.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\98 (GH)\u5404\u7C7B\u6728\u6784\u6784\u4EF6\\1 GH_RectangleSection.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\98 (GH)\u5404\u7C7B\u6728\u6784\u6784\u4EF6\\1 GH_RectangleSection.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\98 (GH)\u5404\u7C7B\u6728\u6784\u6784\u4EF6\\1 GH_RectangleSection.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAnwHsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:36:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeconstructGeometryInformation.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\97 (GH) \u89E3\u6784\\DeconstructGeometryInformation.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\97 (GH) \u89E3\u6784\\DeconstructGeometryInformation.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\97 (GH) \u89E3\u6784\\DeconstructGeometryInformation.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\97 (GH) \u89E3\u6784\\DeconstructGeometryInformation.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAnwDcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:37:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\2 \u53D6\u6252\u6881\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAnwJQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:39:26.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnnotationGuidesUtility.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuidesUtility.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuidesUtility.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuidesUtility.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u51FA\u5143\u6570\u636E\\AnnotationGuidesUtility.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:17:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GH\u5DE5\u5177\u96C6\\MenuManager.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GH\u5DE5\u5177\u96C6\\MenuManager.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GH\u5DE5\u5177\u96C6\\MenuManager.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\0 \u7A0B\u5E8F\u5DE5\u5177\u96C6YhmAssembly\\GH\u5DE5\u5177\u96C6\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:39:26.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "1 CircleSectionTimber.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\1 CircleSectionTimber.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\1 CircleSectionTimber.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\1 CircleSectionTimber.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 \u6728\u6784\u4EF6\u5143\u7D20\\1 CircleSectionTimber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:39:26.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Metadeta.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u5165\u5143\u6570\u636E\\Metadeta.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u5165\u5143\u6570\u636E\\Metadeta.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u5165\u5143\u6570\u636E\\Metadeta.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\\u8F93\u5165\u5143\u6570\u636E\\Metadeta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:39:25.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReferenceDatum.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\ReferenceDatum.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\ReferenceDatum.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\ReferenceDatum.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\999 UtilityElement \u8F85\u52A9\u7C7B\\ReferenceDatum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:39:25.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyComponent1.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyComponent1.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\MyComponent1.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\MyComponent1.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\MyComponent1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:01:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\8 \u53D6\u6B63\u8EAB\u6A90\u693D\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:24:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u693D\u9762_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:24:10.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\7 \u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAcwOAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:57:57.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u6B63\u8EAB\u6A90\u693D\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAowMsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:57:03.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\9 \u53D6\u98DE\u693D\u671B\u677F\u9762_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwHAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:42:41.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u53D6\u89D2\u6881\u7EBF_\u91CD\u6A90_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwDcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:07:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\\u6A2A\u6BB5\u7EBF\u8F6C\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:28:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\4 \u53D6\u6A2A\u6BB5\u5185\u4EA4\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T02:12:54.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\2\u7EA7\u76EE\u5F55_\u65E0\u6597\u62F1\u4EAD\u5B50\\0 \u53D6\u7AD6\u6BB5\u7EBF_\u65E0\u6597\u62F1\u4EAD\u5B50.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAswHYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:05:46.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "4 \u7ED8\u5236\u6302\u843D.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\4 \u7ED8\u5236\u6302\u843D.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\4 \u7ED8\u5236\u6302\u843D.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\4 \u7ED8\u5236\u6302\u843D.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\4 \u7ED8\u5236\u6302\u843D.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAYwOUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:58:04.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "0 \u5C3A\u5BF8\u5206\u6790.cs",
+              "DocumentMoniker": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\0 \u5C3A\u5BF8\u5206\u6790.cs",
+              "RelativeDocumentMoniker": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\0 \u5C3A\u5BF8\u5206\u6790.cs",
+              "ToolTip": "E:\\Office Documents\\grassHopper\\79 GH SDK\\MyGrasshopperAssembly1\\MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\0 \u5C3A\u5BF8\u5206\u6790.cs",
+              "RelativeToolTip": "MyGrasshopperAssembly1\\(GH)0_\u5F62\u4F53\u8BBE\u8BA1\\1\u7EA7\u76EE\u5F55\\0 \u5C3A\u5BF8\u5206\u6790.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAcwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:34:31.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
