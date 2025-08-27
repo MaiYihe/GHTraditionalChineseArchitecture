@@ -8,5 +8,5 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/0d1b74af-a772-4ea7-b674-0fc8396d2ee9" />
 
 ### (半成品)生成效果
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/eb3acadf-b08e-4448-a1be-7cb80d60603d" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/eb3acadf-b08e-4448-a1be-7cb80d60603d" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/e914bd0a-bde4-49cc-9c6e-67f3366e48f8" />
